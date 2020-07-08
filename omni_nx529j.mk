@@ -29,9 +29,9 @@ PRODUCT_COPY_FILES += \
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := nx529j
 PRODUCT_NAME := omni_nx529j
-PRODUCT_BRAND := nubia
-PRODUCT_MODEL := nubia Z11 Mini
-PRODUCT_MANUFACTURER := nubia
+PRODUCT_BRAND := Nubia
+PRODUCT_MODEL := Nubia Z11 Mini
+PRODUCT_MANUFACTURER := Nubia
 
 TARGET_VENDOR_PRODUCT_NAME := nx529j
 TARGET_VENDOR_DEVICE_NAME := nx529j
